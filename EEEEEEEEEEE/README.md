@@ -20,3 +20,7 @@ and the three values are given in script.py
 
 just run the tool and wait for the results to get you Flag
 
+
+![image](https://user-images.githubusercontent.com/103259604/211191791-6ae3e18b-aa8b-4c9f-bbdc-3768376b9c7c.png)
+FLAG : CSCCTF{B1G_3_15_B1G_PR0BL3M_759a3fc}
+
